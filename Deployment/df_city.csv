@@ -1,0 +1,270 @@
+,STATIONNAME,LAT,LONG,STATIONTYPE,ZONE,BOROUGH
+0,Acton Town,51.5028,-0.2802,Outer Suburb,3.0,Ealing
+1,Aldgate,51.5143,-0.0756,City,1.0,City of London
+2,Aldgate East,51.5153,-0.0723,City,1.0,Tower Hamlets
+3,Alperton,51.5408,-0.2994,Outer Suburb,4.0,Brent
+4,Amersham,51.6742,-0.6074,Outer Suburb,9.0,Buckinghamshire
+5,Angel,51.5326,-0.1058,City,1.0,Islington
+6,Archway,51.5655,-0.1351,Inner Suburb,2.5,Islington
+7,Arnos Grove,51.6164,-0.1335,Outer Suburb,4.0,Enfield
+8,Arsenal,51.5586,-0.1057,Inner Suburb,2.0,Islington
+9,Baker Street,51.5231,-0.1569,Tourist,1.0,City of Westminster
+10,Balham,51.4434,-0.1532,Outer Suburb,3.0,Wandsworth
+11,Bank,51.5134,-0.0889,City,1.0,City of London
+12,Barbican,51.5202,-0.0977,City,1.0,City of London
+13,Barking,51.5395,0.0809,Outer Suburb,4.0,Barking & Dagenham
+14,Barkingside,51.5859,0.0885,Outer Suburb,4.0,Redbridge
+15,Barons Court,51.4902,-0.2136,Inner Suburb,2.0,Hammersmith & Fulham
+16,Bayswater,51.5123,-0.188,Tourist,1.0,City of Westminster
+17,Becontree,51.5404,0.1274,Outer Suburb,5.0,Barking & Dagenham
+18,Belsize Park,51.5505,-0.1642,Inner Suburb,2.0,Camden
+19,Bermondsey,51.498,-0.0636,Inner Suburb,2.0,Southwark
+20,Bethnal Green,51.5273,-0.0554,Inner Suburb,2.0,Tower Hamlets
+21,Blackfriars,51.5116,-0.1036,Terminus,1.0,City of London
+22,Blackhorse Road,51.587,-0.041,Outer Suburb,3.0,Waltham Forest
+23,Bond Street,51.5139,-0.1493,Shopping,1.0,City of Westminster
+24,Borough,51.5013,-0.0937,Inner Suburb,1.0,Southwark
+25,Boston Manor,51.4958,-0.3247,Outer Suburb,4.0,Hounslow
+26,Bounds Green,51.6072,-0.1242,Outer Suburb,3.5,Haringey
+27,Bow Road,51.5269,-0.0248,Inner Suburb,2.0,Tower Hamlets
+28,Brent Cross,51.5769,-0.2134,Outer Suburb,3.0,Barnet
+29,Brixton,51.4627,-0.1146,Inner Suburb,2.0,Lambeth
+30,Bromley-by-Bow,51.5248,-0.0117,Inner Suburb,2.5,Tower Hamlets
+31,Buckhurst Hill,51.6266,0.0467,Outer Suburb,5.0,Essex
+32,Burnt Oak,51.6027,-0.2642,Outer Suburb,4.0,Barnet
+33,Caledonian Road,51.5485,-0.1183,Inner Suburb,2.0,Islington
+34,Camden Town,51.5395,-0.1427,Inner Suburb,2.0,Camden
+35,Canada Water,51.498,-0.0497,Inner Suburb,2.0,Southwark
+36,Canary Wharf (E1),51.5036,-0.0194,City,2.0,Tower Hamlets
+37,Canary Wharf (E2),51.5036,-0.0194,City,2.0,Tower Hamlets
+38,Canning Town,51.5139,-0.0082,Inner Suburb,3.0,Newham
+39,Cannon Street ,51.5115,-0.0907,Terminus,1.0,City of London
+40,Canons Park,51.6078,-0.2946,Outer Suburb,5.0,Harrow
+41,Chalfont & Latimer,51.6681,-0.5605,Outer Suburb,8.0,Buckinghamshire
+42,Chalk Farm,51.5442,-0.1537,Inner Suburb,2.0,Camden
+43,Chancery Lane,51.5182,-0.1117,City,1.0,Camden
+44,Charing Cross,51.5087,-0.1247,Terminus,1.0,City of Westminster
+45,Chesham,51.7051,-0.6112,Outer Suburb,9.0,Buckinghamshire
+46,Chigwell,51.6179,0.0745,Outer Suburb,4.0,Essex
+47,Chiswick Park,51.4944,-0.2677,Outer Suburb,3.0,Ealing
+48,Chorleywood,51.6543,-0.5183,Outer Suburb,7.0,Hertfordshire
+49,Clapham Common,51.4618,-0.1383,Inner Suburb,2.0,Lambeth
+50,Clapham North,51.4649,-0.1295,Inner Suburb,2.0,Lambeth
+51,Clapham South,51.4527,-0.148,Inner Suburb,2.5,Wandsworth
+52,Cockfosters,51.6517,-0.1496,Outer Suburb,5.0,Enfield
+53,Colindale,51.5954,-0.2501,Outer Suburb,4.0,Barnet
+54,Colliers Wood,51.4181,-0.1777,Outer Suburb,3.0,Merton
+55,Covent Garden,51.513,-0.1241,Tourist,1.0,City of Westminster
+56,Croxley,51.6471,-0.4417,Outer Suburb,7.0,Hertfordshire
+57,Dagenham East,51.5442,0.1659,Outer Suburb,5.0,Barking & Dagenham
+58,Dagenham Heathway,51.5417,0.1477,Outer Suburb,5.0,Barking & Dagenham
+59,Debden,51.6455,0.0838,Outer Suburb,6.0,Essex
+60,Dollis Hill,51.552,-0.2388,Outer Suburb,3.0,Brent
+61,Ealing Broadway,51.515,-0.3015,Outer Suburb,3.0,Ealing
+62,Ealing Common,51.5102,-0.2882,Outer Suburb,3.0,Ealing
+63,Earls Court,51.4919,-0.1935,Inner Suburb,1.5,Kensington & Chelsea
+64,East Acton,51.5166,-0.2475,Inner Suburb,2.0,Hammersmith & Fulham
+65,East Finchley,51.5873,-0.1647,Outer Suburb,3.0,Barnet
+66,East Ham,51.539,0.0515,Outer Suburb,3.5,Newham
+67,East Putney,51.4589,-0.211,Inner Suburb,2.5,Wandsworth
+68,Eastcote,51.5766,-0.3968,Outer Suburb,5.0,Hillingdon
+69,Edgware,51.6137,-0.2749,Outer Suburb,5.0,Barnet
+70,Edgware Road B,51.5203,-0.1701,Inner Suburb,1.0,City of Westminster
+71,Edgware Road C&H,51.52,-0.1676,Inner Suburb,1.0,City of Westminster
+72,Elephant & Castle,51.4958,-0.1007,Inner Suburb,1.5,Southwark
+73,Elm Park,51.5499,0.1992,Outer Suburb,6.0,Havering
+74,Embankment,51.5073,-0.1223,Tourist,1.0,City of Westminster
+75,Epping,51.6937,0.1138,Outer Suburb,6.0,Essex
+76,Euston,51.5287,-0.1333,Terminus,1.0,Camden
+77,Euston Square,51.5256,-0.1358,City,1.0,Camden
+78,Fairlop,51.5957,0.0909,Outer Suburb,4.0,Redbridge
+79,Farringdon,51.5205,-0.1051,City,1.0,Islington
+80,Finchley Central,51.601,-0.1924,Outer Suburb,4.0,Barnet
+81,Finchley Road,51.5471,-0.1805,Inner Suburb,2.0,Camden
+82,Finsbury Park,51.5645,-0.1065,Inner Suburb,2.0,Islington
+83,Fulham Broadway,51.4806,-0.1949,Inner Suburb,2.0,Hammersmith & Fulham
+84,Gants Hill,51.5766,0.0661,Outer Suburb,4.0,Redbridge
+85,Gloucester Road,51.4943,-0.183,Inner Suburb,1.0,Kensington & Chelsea
+86,Golders Green,51.5723,-0.194,Outer Suburb,3.0,Barnet
+87,Goldhawk Road,51.502,-0.2267,Inner Suburb,2.0,Hammersmith & Fulham
+88,Goodge Street,51.5205,-0.1346,Shopping,1.0,Camden
+89,Grange Hill,51.6134,0.0921,Outer Suburb,4.0,Essex
+90,Great Portland Street,51.5238,-0.1439,Tourist,1.0,City of Westminster
+91,Green Park,51.5069,-0.1429,Tourist,1.0,City of Westminster
+92,Greenford,51.5424,-0.3464,Outer Suburb,4.0,Ealing
+93,Gunnersbury,51.4919,-0.2751,Outer Suburb,3.0,Hounslow
+94,Hainault,51.6038,0.0931,Outer Suburb,4.0,Redbridge
+95,Hammersmith C&H,51.4926,-0.2224,Inner Suburb,2.0,Hammersmith & Fulham
+96,Hammersmith D&P,51.4936,-0.2249,Inner Suburb,2.0,Hammersmith & Fulham
+97,Hampstead,51.5568,-0.1782,Inner Suburb,2.5,Camden
+98,Hanger Lane,51.5301,-0.293,Outer Suburb,3.0,Ealing
+99,Harlesden,51.5363,-0.2575,Outer Suburb,3.0,Brent
+100,Harrow & Wealdstone,51.5923,-0.3352,Outer Suburb,5.0,Harrow
+101,Harrow-on-the-Hill,51.5794,-0.337,Outer Suburb,5.0,Harrow
+102,Hatton Cross,51.4667,-0.4234,Outer Suburb,5.5,Hillingdon
+103,Heathrow Terminal 4,51.4713,-0.4524,Airport,6.0,Hillingdon
+104,Heathrow Terminal 5,51.4716,-0.4879,Airport,6.0,Hillingdon
+105,Heathrow Terminals 2&3,51.4586,-0.446,Airport,6.0,Hillingdon
+106,Hendon Central,51.5834,-0.2265,Outer Suburb,3.5,Barnet
+107,High Barnet,51.6507,-0.1947,Outer Suburb,5.0,Barnet
+108,High Street Kensington,51.5007,-0.1925,Shopping,1.0,Kensington & Chelsea
+109,Highbury & Islington,51.5463,-0.1039,Inner Suburb,2.0,Islington
+110,Highgate,51.5777,-0.1466,Outer Suburb,3.0,Haringey
+111,Hillingdon,51.5538,-0.4499,Outer Suburb,6.0,Hillingdon
+112,Holborn,51.5175,-0.12,City,1.0,Camden
+113,Holland Park,51.5074,-0.2057,Inner Suburb,2.0,Kensington & Chelsea
+114,Holloway Road,51.5528,-0.1129,Inner Suburb,2.0,Islington
+115,Hornchurch,51.5541,0.219,Outer Suburb,6.0,Havering
+116,Hounslow Central,51.4712,-0.3669,Outer Suburb,4.0,Hounslow
+117,Hounslow East,51.4732,-0.3566,Outer Suburb,4.0,Hounslow
+118,Hounslow West,51.4731,-0.3857,Outer Suburb,5.0,Hounslow
+119,Hyde Park Corner,51.5028,-0.1527,Tourist,1.0,City of Westminster
+120,Ickenham,51.562,-0.442,Outer Suburb,6.0,Hillingdon
+121,Kennington,51.4882,-0.1055,Inner Suburb,2.0,Southwark
+122,Kensal Green,51.5305,-0.2247,Inner Suburb,2.0,Brent
+123,Kentish Town,51.5504,-0.1405,Inner Suburb,2.0,Camden
+124,Kenton,51.5818,-0.3171,Outer Suburb,4.0,Brent
+125,Kew Gardens,51.4771,-0.2852,Outer Suburb,3.5,Richmond upon Thames
+126,Kilburn,51.5469,-0.2046,Inner Suburb,2.0,Brent
+127,Kilburn Park,51.5351,-0.1939,Inner Suburb,2.0,Brent
+128,Kings Cross (North),51.5305,-0.1238,Terminus,1.0,Camden
+129,Kings Cross (Tube),51.5305,-0.1238,Terminus,1.0,Camden
+130,Kings Cross (Western),51.5305,-0.1238,Terminus,1.0,Camden
+131,Kingsbury,51.5848,-0.2788,Outer Suburb,4.0,Brent
+132,Knightsbridge,51.5016,-0.1605,Shopping,1.0,Kensington & Chelsea
+133,Ladbroke Grove,51.5173,-0.2108,Inner Suburb,2.0,Kensington & Chelsea
+134,Lambeth North,51.4991,-0.1117,Inner Suburb,1.0,Lambeth
+135,Lancaster Gate,51.5119,-0.1754,Tourist,1.0,City of Westminster
+136,Latimer Road,51.5136,-0.2177,Inner Suburb,2.0,Kensington & Chelsea
+137,Leicester Square,51.5113,-0.1282,Tourist,1.0,City of Westminster
+138,Leyton,51.5565,-0.0056,Outer Suburb,3.0,Waltham Forest
+139,Leytonstone,51.5683,0.0082,Outer Suburb,3.5,Waltham Forest
+140,Liverpool Street,51.5174,-0.083,Terminus,1.0,City of London
+141,London Bridge,51.5056,-0.0869,Terminus,1.0,Southwark
+142,Loughton,51.6416,0.0553,Outer Suburb,6.0,Essex
+143,Maida Vale,51.5298,-0.1856,Inner Suburb,2.0,City of Westminster
+144,Manor House,51.5708,-0.0957,Inner Suburb,2.5,Hackney
+145,Mansion House,51.5121,-0.0942,City,1.0,City of London
+146,Marble Arch,51.5136,-0.1584,Shopping,1.0,City of Westminster
+147,Marylebone,51.5223,-0.1631,Terminus,1.0,City of Westminster
+148,Mile End,51.5252,-0.0334,Inner Suburb,2.0,Tower Hamlets
+149,Mill Hill East,51.6083,-0.2099,Outer Suburb,4.0,Barnet
+150,Monument,51.5134,-0.0889,City,1.0,City of London
+151,Moor Park,51.6298,-0.4326,Outer Suburb,6.5,Hertfordshire
+152,Moorgate,51.5184,-0.089,Terminus,1.0,City of London
+153,Morden,51.4024,-0.1948,Outer Suburb,4.0,Merton
+154,Mornington Crescent,51.5343,-0.1388,Inner Suburb,2.0,Camden
+155,Neasden,51.554,-0.2498,Outer Suburb,3.0,Brent
+156,Newbury Park,51.5756,0.0903,Outer Suburb,4.0,Redbridge
+157,North Acton,51.5234,-0.2597,Inner Suburb,2.5,Ealing
+158,North Ealing,51.5176,-0.289,Outer Suburb,3.0,Ealing
+159,North Greenwich,51.5003,0.0036,Inner Suburb,2.5,Greenwich
+160,North Harrow,51.5849,-0.3622,Outer Suburb,5.0,Harrow
+161,North Wembley,51.5625,-0.3041,Outer Suburb,4.0,Brent
+162,Northfields,51.4993,-0.3141,Outer Suburb,3.0,Ealing
+163,Northolt,51.5482,-0.3684,Outer Suburb,5.0,Ealing
+164,Northwick Park,51.5787,-0.3182,Outer Suburb,4.0,Brent
+165,Northwood,51.6112,-0.4238,Outer Suburb,6.0,Hillingdon
+166,Northwood Hills,51.6005,-0.4093,Outer Suburb,6.0,Hillingdon
+167,Notting Hill Gate,51.5091,-0.1965,Inner Suburb,1.5,Kensington & Chelsea
+168,Oakwood,51.6476,-0.1318,Outer Suburb,5.0,Enfield
+169,Old Street,51.5257,-0.0875,City,1.0,Islington
+170,Osterley,51.481,-0.352,Outer Suburb,4.0,Hounslow
+171,Oval,51.4822,-0.1129,Inner Suburb,2.0,Lambeth
+172,Oxford Circus,51.5152,-0.1418,Shopping,1.0,City of Westminster
+173,Paddington,51.5154,-0.1754,Terminus,1.0,City of Westminster
+174,Park Royal,51.527,-0.2842,Outer Suburb,3.0,Ealing
+175,Parsons Green,51.4752,-0.2012,Inner Suburb,2.0,Hammersmith & Fulham
+176,Perivale,51.5367,-0.3238,Outer Suburb,4.0,Ealing
+177,Piccadilly Circus,51.5101,-0.134,Tourist,1.0,City of Westminster
+178,Pimlico,51.4893,-0.1337,Outer Suburb,1.0,City of Westminster
+179,Pinner,51.5929,-0.3809,Outer Suburb,5.0,Harrow
+180,Plaistow,51.5313,0.0178,Outer Suburb,3.0,Newham
+181,Preston Road,51.5721,-0.2952,Outer Suburb,4.0,Brent
+182,Putney Bridge,51.468,-0.2089,Inner Suburb,2.0,Hammersmith & Fulham
+183,Queens Park,51.5342,-0.2047,Inner Suburb,2.0,Brent
+184,Queensbury,51.5944,-0.2858,Inner Suburb,4.0,Brent
+185,Queensway,51.5105,-0.1874,Tourist,1.0,City of Westminster
+186,Ravenscourt Park,51.4942,-0.2362,Inner Suburb,2.0,Hammersmith & Fulham
+187,Rayners Lane,51.575,-0.371,Outer Suburb,5.0,Harrow
+188,Redbridge,51.5764,0.0454,Outer Suburb,4.0,Redbridge
+189,Regents Park,51.5236,-0.1468,Tourist,1.0,City of Westminster
+190,Rickmansworth,51.6403,-0.4737,Outer Suburb,7.0,Hertfordshire
+191,Roding Valley,51.6172,0.0439,Outer Suburb,4.0,Essex
+192,Royal Oak,51.5191,-0.1882,Inner Suburb,2.0,City of Westminster
+193,Ruislip,51.5715,-0.4214,Outer Suburb,6.0,Hillingdon
+194,Ruislip Gardens,51.5607,-0.411,Outer Suburb,5.0,Hillingdon
+195,Ruislip Manor,51.5732,-0.4123,Outer Suburb,6.0,Hillingdon
+196,Russell Square,51.523,-0.1243,Tourist,1.0,Camden
+197,Seven Sisters,51.5834,-0.0725,Outer Suburb,3.0,Haringey
+198,Shepherds Bush,51.5045,-0.2187,Shopping,2.0,Hammersmith & Fulham
+199,Shepherds Bush Market,51.5056,-0.2263,Inner Suburb,2.0,Hammersmith & Fulham
+200,Sloane Square,51.4924,-0.1565,Shopping,1.0,Kensington & Chelsea
+201,Snaresbrook,51.5809,0.0215,Outer Suburb,4.0,Redbridge
+202,South Ealing,51.5014,-0.307,Outer Suburb,3.0,Ealing
+203,South Harrow,51.5647,-0.3522,Outer Suburb,5.0,Harrow
+204,South Kensington,51.4941,-0.1739,Tourist,1.0,Kensington & Chelsea
+205,South Kenton,51.5702,-0.3086,Outer Suburb,4.0,Brent
+206,South Ruislip,51.5566,-0.3986,Outer Suburb,5.0,Hillingdon
+207,South Wimbledon,51.4154,-0.1919,Outer Suburb,3.5,Merton
+208,South Woodford,51.5918,0.0273,Outer Suburb,4.0,Redbridge
+209,Southfields,51.445,-0.2065,Outer Suburb,3.0,Wandsworth
+210,Southgate,51.6324,-0.1277,Outer Suburb,4.0,Enfield
+211,Southwark,51.5039,-0.1051,Inner Suburb,1.0,Southwark
+212,St James's Park,51.4994,-0.1342,Tourist,1.0,City of Westminster
+213,St Johns Wood,51.5346,-0.1742,Inner Suburb,2.0,City of Westminster
+214,St Pauls,51.5149,-0.0976,City,1.0,City of London
+215,Stamford Brook,51.4949,-0.2454,Inner Suburb,2.0,Hounslow
+216,Stanmore,51.6197,-0.3031,Outer Suburb,5.0,Harrow
+217,Stepney Green,51.522,-0.0465,Inner Suburb,2.0,Tower Hamlets
+218,Stockwell,51.4722,-0.1229,Inner Suburb,2.0,Lambeth
+219,Stonebridge Park,51.544,-0.2754,Outer Suburb,3.0,Brent
+220,Stratford,51.5414,-0.0032,Shopping,3.0,Newham
+221,Sudbury Hill,51.5571,-0.3362,Outer Suburb,4.0,Harrow
+222,Sudbury Town,51.5508,-0.3154,Outer Suburb,4.0,Brent
+223,Swiss Cottage,51.5434,-0.1747,Inner Suburb,2.0,Camden
+224,Temple,51.511,-0.1137,City,1.0,City of Westminster
+225,Theydon Bois,51.6718,0.1031,Outer Suburb,6.0,Essex
+226,Tooting Bec,51.4358,-0.1597,Outer Suburb,3.0,Wandsworth
+227,Tooting Broadway,51.4275,-0.168,Outer Suburb,3.0,Wandsworth
+228,Tottenham Court Road,51.5163,-0.1309,Shopping,1.0,City of Westminster
+229,Tottenham Hale,51.5881,-0.0603,Outer Suburb,3.0,Haringey
+230,Totteridge,51.6303,-0.1792,Outer Suburb,4.0,Barnet
+231,Tower Hill,51.5101,-0.0763,Tourist,1.0,Tower Hamlets
+232,Tufnell Park,51.5567,-0.1379,Inner Suburb,2.0,Islington
+233,Turnham Green,51.4952,-0.2545,Inner Suburb,2.5,Hounslow
+234,Turnpike Lane,51.5904,-0.1028,Outer Suburb,3.0,Haringey
+235,Upminster Bridge,51.5588,0.2358,Outer Suburb,6.0,Havering
+236,Upney,51.5384,0.1016,Outer Suburb,4.0,Barking & Dagenham
+237,Upton Park,51.5353,0.0353,Outer Suburb,3.0,Newham
+238,Uxbridge,51.5466,-0.4781,Outer Suburb,6.0,Hillingdon
+239,Vauxhall,51.4858,-0.1237,Inner Suburb,1.5,Lambeth
+240,Victoria,51.4964,-0.1438,Terminus,1.0,City of Westminster
+241,Victoria D,51.4964,-0.1438,Terminus,1.0,City of Westminster
+242,Walthamstow Central,51.583,-0.0199,Outer Suburb,3.0,Waltham Forest
+243,Wanstead,51.5756,0.0287,Outer Suburb,4.0,Redbridge
+244,Warren Street,51.5246,-0.1383,Shopping,1.0,Camden
+245,Warwick Avenue,51.5233,-0.1836,Outer Suburb,2.0,City of Westminster
+246,Waterloo (Colonnade),51.5036,-0.1141,Terminus,1.0,Lambeth
+247,Waterloo (Main),51.5036,-0.1141,Terminus,1.0,Lambeth
+248,Watford Met,51.6575,-0.4172,Outer Suburb,7.0,Hertfordshire
+249,Wembley Central,51.5524,-0.2968,Outer Suburb,4.0,Brent
+250,Wembley Park,51.5633,-0.2792,Outer Suburb,4.0,Brent
+251,West Acton,51.5179,-0.281,Outer Suburb,3.0,Ealing
+252,West Brompton,51.4873,-0.1955,Inner Suburb,2.0,Kensington & Chelsea
+253,West Finchley,51.6095,-0.1884,Outer Suburb,4.0,Barnet
+254,West Ham,51.5283,0.005,Outer Suburb,3.0,Newham
+255,West Hampstead,51.5468,-0.1907,Inner Suburb,2.0,Camden
+256,West Harrow,51.5798,-0.3529,Outer Suburb,5.0,Harrow
+257,West Kensington,51.4906,-0.2065,Inner Suburb,2.0,Hammersmith & Fulham
+258,West Ruislip,51.5696,-0.4378,Outer Suburb,6.0,Hillingdon
+259,Westbourne Park,51.521,-0.2009,Inner Suburb,2.0,Kensington & Chelsea
+260,Westminster,51.5012,-0.1248,Tourist,1.0,City of Westminster
+261,White City,51.512,-0.2242,Inner Suburb,2.0,Hammersmith & Fulham
+262,Whitechapel,51.5195,-0.06,Inner Suburb,2.0,Tower Hamlets
+263,Willesden Green,51.5494,-0.2224,Inner Suburb,2.5,Brent
+264,Wimbledon Park,51.4345,-0.1996,Outer Suburb,3.0,Merton
+265,Wood Green,51.5975,-0.1096,Outer Suburb,3.0,Haringey
+266,Wood Lane,51.51,-0.2242,Inner Suburb,2.0,Hammersmith & Fulham
+267,Woodford,51.6071,0.034,Outer Suburb,4.0,Redbridge
+268,Woodside Park,51.6179,-0.1854,Outer Suburb,4.0,Barnet

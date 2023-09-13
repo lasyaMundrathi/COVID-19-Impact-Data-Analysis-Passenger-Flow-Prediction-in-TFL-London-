@@ -1,0 +1,9 @@
+{
+    "data" : {
+     "STATIONNAME": "Stratford",
+      "DATE": "2021-04-30",
+      "LOCKDOWN": 1,
+      "NLC": 719,
+      "ENTRY_EXIT": "Entry",
+      "TIME": "09:45"
+  }}
